@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Movies>
+    <Movie>
+        <title>Star Wars: the new hope</title>
+        <director>
+            <name>George</name>
+            <surname>Lucas</surname>
+        </director>
+        <genre>sci-fi</genre>
+        <year>1979</year>
+        <actors>
+            <actor>
+                <name>Harrison</name>
+                <surname>Ford</surname>
+            </actor>
+            <actor>
+                <name>Mark</name>
+                <surname>Hamill</surname>
+            </actor>
+        </actors>
+    </Movie>
+    <Movie>
+        <title>Star Wars: the empire strikes back</title>
+        <director>
+            <name>Irvin</name>
+            <surname>Kershner</surname>
+        </director>
+        <genre>sci-fi</genre>
+        <year>1980</year>
+        <actors>
+            <actor>
+                <name>Harrison</name>
+                <surname>Ford</surname>
+            </actor>
+            <actor>
+                <name>Darth</name>
+                <surname>Vader</surname>
+            </actor>
+        </actors>
+    </Movie>
+    <Movie>
+        <title>Star Wars: return of the jedi</title>
+        <director>
+            <name>Richard</name>
+            <surname>Marquand</surname>
+        </director>
+        <genre>sci-fi</genre>
+        <year>1983</year>
+        <actors>
+            <actor>
+                <name>Carrie</name>
+                <surname>Fisher</surname>
+            </actor>
+            <actor>
+                <name>Mark</name>
+                <surname>Hamill</surname>
+            </actor>
+        </actors>
+    </Movie>
+    <Movie>
+        <title>Indiana Jones: Raiders of the Lost Ark</title>
+        <director>
+            <name>Steven</name>
+            <surname>Spielberg</surname>
+        </director>
+        <genre>adventure</genre>
+        <year>1981</year>
+        <actors>
+            <actor>
+                <name>Harrison</name>
+                <surname>Ford</surname>
+            </actor>
+            <actor>
+                <name>Karen</name>
+                <surname>Allen</surname>
+            </actor>
+        </actors>
+    </Movie>
+</Movies>

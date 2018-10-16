@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Star Wars: the new hope",
+    "director":{"name":"George", "surname":"Lucas"},
+    "year":1979,
+    "genre":"sci-fi",
+    "actors":[{"name":"Harrison", "surname":"Ford"},
+      {"name":"Mark", "surname":"Hamill"}]
+  },
+  {
+    "title": "Star Wars: the empire strikes back",
+    "director":{"name":"Irvin", "surname":"Kershner"},
+    "year":1980,
+    "genre":"sci-fi",
+    "actors":[{"name":"Harrison", "surname":"Ford"},
+      {"name":"Darth", "surname":"Vader"}]
+  },
+  {
+    "title": "Star Wars: return of the jedi",
+    "director":{"name":"Richard", "surname":"Marquand"},
+    "year":1983,
+    "genre":"sci-fi",
+    "actors":[{"name":"Carrie", "surname":"Fisher"},
+      {"name":"Mark", "surname":"Hamill"}]
+  },
+  {
+    "title": "Indiana Jones: Raiders of the Lost Ark",
+    "director": {"name":"Steven", "surname":"Spielberg"},
+    "year":1981,
+    "genre":"adventure",
+    "actors":[{"name":"Harrison", "surname":"Ford"},
+      {"name":"Karen", "surname":"Allen"}]
+  }
+]
+
